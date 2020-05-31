@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 148701773bfc8f048b60f6716f26703e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - username: {instanceID: 0}
+  - email: {instanceID: 0}
+  - password: {instanceID: 0}
+  - confPassword: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
